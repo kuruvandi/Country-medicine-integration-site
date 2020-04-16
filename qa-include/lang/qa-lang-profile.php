@@ -67,7 +67,7 @@
 		'post_wall_must_be_approved' => 'Your account must be approved to post on this wall.',
 		'post_wall_must_confirm' => 'Please ^5confirm your email address^6 to post on this wall.',
 		'post_wall_must_login' => 'Please ^1log in^2 or ^3register^4 to post on this wall.',
-		'questions' => 'கேள்விகள்:',
+		'questions' => 'Questions:',
 		'questions_by_x' => 'Questions by ^',
 		'ranked_x' => ' (ranked #^)',
 		'received' => 'Received:',
